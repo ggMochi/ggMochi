@@ -4,7 +4,7 @@
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/gg.mochi?igshid=MzNlNGNkZWQ4Mg==)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](ggumiguel@gmail.com)
+)](mailto:ggumiguel@gmail.com)
 
 ![Mochi GitHub stats](https://github-readme-stats.vercel.app/api?username=ggMochi&show_icons=true&theme=midnight-purple)<img alt="GIF" src="https://cdn.discordapp.com/attachments/1075778638374510604/1109174689865146368/ezgif.com-gif-maker.gif" width="25%" height="25%"/>
 ## Sobre mim
